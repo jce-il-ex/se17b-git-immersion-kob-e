@@ -7,7 +7,7 @@
 1. Some commands apearing in the tutorial are unix shell commands (rather than git), if you work in a Windows shell you might need to find the equivalent (e.g. steps 11, 21-22). We recommend working with a git aware shell (like the Git Shell installed by GithubDesktop on Windows).
 1. At each stage you can save your work to github by following the last lab step (53): pushing all work to your github account, and then continue elsewhere by cloning or pulling.
 1. Finally (step 53) [push][ref-push] all your commits, branches and tags.
-1. If you have an improvement suggestion or a bug fix for this tutorial, please open an [issue](./issues), or send a PR with a fix.
+1. If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [at the source repo](https://github.com/jce-il/git-immersion/issues), or send a PR with a fix.
 
 ### To start follow these steps:
 - Install a git client (already exists on Lab machines)
